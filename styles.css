@@ -1,0 +1,53 @@
+/*  MAIN HEADING OF THE WEB PAGE  */
+
+.heading
+{
+    margin:20px;
+    font-family: 'Crete Round', serif;
+}
+
+/* FIRST DIVISION BLOCK OF THE WEB PAGE */
+
+.quiz-on-the-internet
+{
+    margin:20px;
+
+    padding:30px;
+    
+    font-size:17px;
+
+    border:2px solid pink;
+
+    border-radius:30px;
+
+    background-color: #ffe8d6;
+
+    font-family: 'Montserrat', sans-serif;
+}
+
+/*SECOND DIVISION BLOCK OF THE WEB PAGE */
+
+.second-div-1
+{
+    margin:20px;
+    padding:30px;
+
+    border:2px solid cyan;
+
+    border-radius:30px;
+
+    background-color:lightcyan;
+    font-family: 'Merriweather', serif;
+}
+
+
+.images
+{
+    margin-top:50px;
+
+    width:300px;
+    height:250px;
+
+    border:2px solid lightsteelblue;
+    border-radius:15px;
+}
